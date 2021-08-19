@@ -1,0 +1,9 @@
+footer{
+    text-align: center;
+    background-image: linear-gradient(to top,lightblue,#ced8ec) ;
+    height: 150px;
+    transition: height 1.0s;
+}
+footer:hover{
+height: 350px;
+}
