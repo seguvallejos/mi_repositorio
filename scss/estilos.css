@@ -2,7 +2,7 @@ footer {
   text-align: center;
   background-image: -webkit-gradient(linear, left bottom, left top, from(lightblue), to(#ced8ec));
   background-image: linear-gradient(to top, lightblue, #ced8ec);
-  height: 150px;
+  height: 300px;
   -webkit-transition: height 1.0s;
   transition: height 1.0s;
 }
